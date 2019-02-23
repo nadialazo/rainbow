@@ -1,0 +1,68 @@
+h2 {
+    border-bottom-style:solid;
+    border-bottom-color: black;
+    width:10%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#redr {
+    color:red;
+}
+#orangea {
+    color: orange;
+}
+#yellowi {
+    color: yellow;
+}
+#greenn {
+    color: green;
+}
+#blueb {
+    color: blue;
+}
+.purpleow {
+    color: #ca79e5;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.block{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 210%;
+    font-style: italic;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.red{
+    background-color: red;
+}
+.organge{
+    background-color: orange;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+    color: white;
+}
+
+.purple{
+    background-color: purple;
+}
+
+
+
